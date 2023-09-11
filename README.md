@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan Gao (@ryangao0313).
 - 👀 I’m interested in systems engineering, data science, machine learning, aerospace engineering.
 - 🌱 I’m currently a master's student in systems engineering at UVA.
-- 💞️ I’m looking to collaborate on some data analysis, consulting.
+- 💞️ I’m looking to collaborate on some engineering, data analysis, consulting.
 - 📫 How to reach me : Mobile: (650)622-6628, Email: ryangao0313@gmail.com
 
 <!---
